@@ -1,4 +1,5 @@
 Efficycle Project 🚴⚡
+
 This repository showcases our Efficycle project, where we designed and built a three-wheeled, human-electric hybrid vehicle as part of an intercollegiate competition. I had the privilege of leading the project as the Team Captain, coordinating design, simulation, manufacturing, and testing activities.
 
 What's Inside
